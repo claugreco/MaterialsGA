@@ -1,0 +1,270 @@
+http://www-bcf.usc.edu/~gareth/ISL/
+
+
+
+EDA
+-----
+https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
+
+TIM HOGAN
+------
+https://github.com/tmh8195/Data-Science-Resources
+
+MACHINE LERANIGN BOOKS
+--------
+https://github.com/danromuald/python-machine-learning-book
+https://elitedatascience.com/learn-machine-learning#what
+
+https://elitedatascience.com/machine-learning-projects-for-beginners
+
+
+https://www.youtube.com/watch?v=-5wpm-gesOY
+https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/
+
+
+VISUALIZATION
+-------
+https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary
+https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/poster.png
+
+
+INTERVIEW
+--------
+https://www.codewars.com/collections/interview-questions
+
+
+GRADIENT DESCENT
+---------
+https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/
+
+
+BAYES
+-------
+http://www.greenteapress.com/thinkbayes/thinkbayes.pdf
+http://setosa.io/blog/2014/07/26/markov-chains/
+https://georgemdallas.wordpress.com/2013/10/30/principal-component-analysis-4-dummies-eigenvectors-eigenvalues-and-dimension-reduction/
+http://ethen8181.github.io/Business-Analytics/bayesian_statistics/bayes/bayes.html
+
+
+
+PCA
+------
+https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c
+http://setosa.io/ev/principal-component-analysis/
+
+
+
+NEURO NETWORK
+-------------
+http://neuralnetworksanddeeplearning.com/chap1.html
+https://www.youtube.com/watch?v=2-Ol7ZB0MmU
+https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
+https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721
+https://machinelearners.net/2017/08/23/predicting-bitcoins-value-using-convolution-neural-networks-long-short-term-memory-cells/
+
+FEATURE SELECTION
+------------
+https://nbviewer.jupyter.org/url/bmobasher.com/Class/CSC478/Titanic.ipynb
+
+DE PAUL
+-----------
+http://facweb.cs.depaul.edu/mobasher/classes/CSC478/lecture.html
+
+
+
+APIs
+--------
+Python Wrappers
+http://www.pythonforbeginners.com/api/list-of-python-apis
+https://github.com/realpython/list-of-python-api-wrappers
+
+JSON BEAUTY
+---------
+https://codebeautify.org/jsonviewer
+
+
+NAIVE
+-------
+https://oscarbonilla.com/2009/05/visualizing-bayes-theorem/
+https://students.brown.edu/seeing-theory/bayesian-inference/index.html#section1
+
+
+
+CREATE NEW ENVIRONMENT FOR NLP
+------------------------
+conda create -n nlp python=3.6
+source activate nlp
+source deactivate
+conda install -c anaconda nltk
+conda install gensim
+
+
+LINKEDIN 
+------------
+https://www.linkedin.com/in/mikegardner/
+
+
+SPACY
+-------
+http://nbviewer.jupyter.org/github/bmabey/pyLDAvis/blob/master/notebooks/pyLDAvis_overview.ipynb#topic=0&lambda=1&term=
+
+
+
+GIT HUB REPOS
+-------------
+https://github.com/jocelyn-ong/data-science-projects/tree/master/ga-dsi-weekly-projects
+https://git.generalassemb.ly/varsha-pull/dsi_7_Feedback/blob/master/Brian/project2/brian_iowa.ipynb
+
+
+
+IDEAS FOR CAPSTONE
+------------------
+https://gallery.generalassemb.ly/DSI?metro=
+
+WHERE TO GET DATA
+----------------
+http://flowingdata.com/2009/10/01/30-resources-to-find-the-data-you-need/
+
+
+TO READ
+------------------------
+Cantorâ€™s diagonal argument
+https://classroom.udacity.com/courses/st101
+https://students.brown.edu/seeing-theory/
+http://www.neural.cz/dataset-exploration-boston-house-pricing.html
+http://www.fast.ai/2017/07/17/num-lin-alg/
+https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/
+https://regex101.com
+
+
+AWS
+https://www.dataquest.io/blog/introduction-to-aws-for-data-scientists/
+
+FEATURE ENGINEERING: https://www.youtube.com/watch?v=drUToKxEAUA
+
+Linear Regression
+http://www.fast.ai/2017/07/17/num-lin-alg/
+
+LASSO RIDGE
+https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/
+
+books:
+https://www.amazon.com/Everybody-Lies-Internet-About-Really/dp/0062390856
+coursera - neuro networks 
+
+REGULARIZATION APP
+https://timothykbook.shinyapps.io/RegularizationPlot/
+
+STATS BOOKS
+-------------
+http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf
+https://www.amazon.com/Statistics-Plain-English-Third-Timothy/dp/041587291X
+https://www.openintro.org/stat/textbook.php?stat_book=os
+
+JUPYTER NB
+----------
+https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
+https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/
+
+CHEAT SHEET
+-------------
+https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf
+
+COMPARATION SQL vs PANDAS
+-------------------------
+http://pandas.pydata.org/pandas-docs/stable/comparison_with_sql.html#compare-with-sql-join
+
+
+AWS CREDITS
+-----------
+https://generalassemb.ly/aws_credit?program_id=5364
+
+
+Proyectos y HomeWork DUE DATE:
+------------------------------
+- Project1 is due on Friday, Jan 26.
+
+
+
+
+Outcomes Homework:
+https://github.com/ga-students/boston-outcomes-homework
+
+
+MATT 
+------------------
+Office Hours: https://matt-brems.youcanbook.me/
+
+iPad Notebooks: https://1drv.ms/u/s!Am0RbRoiAmUfdF1ptiztzsmyYQ4
+
+
+PODCASTS
+------------------
+
+1.) _O'Reilly Data Show_ with Ben Lorica - Some advanced topics, but always interesting. Great for learning how ML is used in the corporate world.
+2.) _TWiML & AI_ with Sam Charrington - Similar to _O'Reilly Data Show_. I just started listening to this one, but I have enjoyed the episodes so far.
+3.) _Linear Digressions_ with Katie Malone and Ben Jaffe - More educational in nature. They do a great job of explaining ML techniques and their use cases. Katie is a big deal in Chicago.
+4.) _Talk Python To Me_ with Michael Kennedy - Not a Data Science podcast per se, but ML tends to be a frequent topic. Great for learning how to use Python better.
+
+
+
+2.718281828459045
+
+7 = Andrew Jackson was the 7th President.
+1828 = He was elected in 1828.
+1828 1828 = He served two terms.
+45-90-45 = A special type of triangle.
+
+
+
+Ejemplos
+
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+%matplotlib inline
+
+
+Como abrir un archivo:
+
+
+with open ('coffee-preferences.csv', 'r') as f:
+    lines = f.readlines()
+    
+CON PANDAS 
+
+housing = pd.read_csv('housing.csv')
+
+
+-- SQL in Pandas
+
+import pandas as pd
+
+orders = %sql SELECT * FROM orders;
+orders = orders.DataFrame()
+orders
+
+
+EDA
+
+housing = pd.read_csv('housing.csv')
+housing.head()
+housing.info()
+housing.isnull().sum()
+crime.dropna(inplace=True)  # remove rows with any missing values
+housing.hist(bins=50, figsize=(20,15));
+
+
+function to train-test spli
+
+
+Como borrar una columna DF
+act.drop('index',axis = 1,inplace=True)
+
+
+outliers: 1.5 x IQR
+
+
+VISUALIZATION
+-------------
